@@ -11,8 +11,8 @@ Go to [https://aistudio.google.com/](https://aistudio.google.com/) → Create AP
 
 ### 2. Configure environment
 ```bash
-cp .env.example .env
-# Then edit .env and paste your GEMINI_API_KEY
+cp .env
+# Then create .env and paste your GEMINI_API_KEY
 ```
 
 ### 3. Install & run
